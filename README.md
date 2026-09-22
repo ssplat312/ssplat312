@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h3>Check my personal website to see websites and apps I've published!</h3>
+<h3>Check my <a href="https://caydenriverspersonalwebsite.vercel.app/" target="_blank"><em>personal website</em></a> to see websites and apps I've published!</h3>
 <!--
 **ssplat312/ssplat312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
